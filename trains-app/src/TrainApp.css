@@ -1,0 +1,17 @@
+.train-app {
+  margin-top: 20px;
+}
+.train-app .loading {
+  min-height: 100px;
+}
+.train-app .arrival-node {
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 10px 0 10px 0;
+}
+.train-app .arrival-node .destination {
+  color: yellow;
+}
+.train-app .error-message {
+  color: red;
+}
